@@ -1,3 +1,5 @@
+> ⏳ **Legacy project (2020)** — archived and no longer maintained. Kept as part of my development journey. Current work: [elvinlab.dev](https://elvinlab.dev)
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
